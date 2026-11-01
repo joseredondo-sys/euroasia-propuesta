@@ -1,0 +1,61 @@
+{
+  "hero": [
+    "halong-3120431",
+    "angkor-30776916",
+    "maldivas-4188463",
+    "fuji-29469643",
+    "hoian-15843973"
+  ],
+  "destinos": {
+    "vietnam": {
+      "video": "/video/vietnam.mp4",
+      "poster": "/video/vietnam.webp",
+      "fuente": "halong-3120431"
+    },
+    "camboya": {
+      "video": "/video/camboya.mp4",
+      "poster": "/video/camboya.webp",
+      "fuente": "angkor-30776916"
+    },
+    "bali": {
+      "video": "/video/bali.mp4",
+      "poster": "/video/bali.webp",
+      "fuente": "bali-8334231"
+    },
+    "japon": {
+      "video": "/video/japon.mp4",
+      "poster": "/video/japon.webp",
+      "fuente": "fuji-29469643"
+    },
+    "maldivas": {
+      "video": "/video/maldivas.mp4",
+      "poster": "/video/maldivas.webp",
+      "fuente": "maldivas-32192415"
+    },
+    "tailandia": {
+      "video": "/video/tailandia.mp4",
+      "poster": "/video/tailandia.webp",
+      "fuente": "tailandia-35888266"
+    },
+    "india": {
+      "video": "/video/india.mp4",
+      "poster": "/video/india.webp",
+      "fuente": "tajmahal-40047157"
+    },
+    "sri-lanka": {
+      "video": "/video/sri-lanka.mp4",
+      "poster": "/video/sri-lanka.webp",
+      "fuente": "srilanka-32629778"
+    },
+    "kioto": {
+      "video": "/video/kioto.mp4",
+      "poster": "/video/kioto.webp",
+      "fuente": "kioto-5854338"
+    },
+    "hoian": {
+      "video": "/video/hoian.mp4",
+      "poster": "/video/hoian.webp",
+      "fuente": "hoian-15843973"
+    }
+  }
+}
